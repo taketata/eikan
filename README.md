@@ -1,24 +1,21 @@
-# README
+# <エイカン>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+<栄養を管理するアプリ>
 
-Things you may want to cover:
+### テーマを選んだ理由
+<自分に必要な栄養をどれくらい取れているのか気になったため>
 
-* Ruby version
+### ターゲットユーザ
+<簡易的に栄養管理をしたい人>
 
-* System dependencies
+### 主な利用シーン
+<食事を行ったタイミング>
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
